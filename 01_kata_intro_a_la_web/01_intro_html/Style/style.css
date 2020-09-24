@@ -1,0 +1,40 @@
+body {
+    color: #746071; 
+    text-align: justify;
+    font-size: 18px;
+  }
+  
+  h1 {
+    color: #474747; 
+    text-align: center;
+  }
+
+  div{
+    background-color: #cacaca;
+  }
+
+  h3 {
+    color: #474747;
+  }
+
+  .container{
+      max-width: 80%;
+      width: 90%;
+      padding: 45px 20px;
+      margin: 0 auto;
+      margin-top: 150px;
+      border: 1px solid #000000;
+  }
+  iframe{
+    max-width: 80%;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+  }
+   img {
+    padding: 15px 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 40%;
+  }
