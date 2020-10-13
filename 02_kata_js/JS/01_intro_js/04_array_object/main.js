@@ -1,5 +1,5 @@
 
-
+/*
 // array o arreglos
 
 //posicion    0         1        2     
@@ -44,8 +44,9 @@ console.log(persona.edad);
 console.log(persona.nombre);
 console.log(persona.musica.trap.duki);
 console.log(persona.peliculas[2])
-
+*/
 // array with objects
+
 var animales = [
     {
         nombre: 'vaca',
@@ -65,10 +66,16 @@ var animales = [
     },
 ];
 
-console.log(animales[3].nombre)
+for( i=0; i < 4; i++ ) {
+    console.log(animales[i]);
+}
 
+/*
 
+var aDias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
+console.log( aDias.length );  // Devuelve 7
 
+*/
 
 
 
