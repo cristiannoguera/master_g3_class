@@ -19,6 +19,6 @@ var animales = [
     },
 ];
 
-for( i=0; i < 4; i++ ) {
-    console.log(animales[i]);
+for(var i=0; i < 4; i++ ) {
+    console.log(animales[i]);    
 }
