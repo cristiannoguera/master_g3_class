@@ -2,7 +2,7 @@
 
 function area (a,b) {
     b = Number (prompt('Area de un rectangulo \n Ingrese el valor de Base :'))
-    a = Number (prompt('ingrese el valor de Altura'))
+    a = Number (prompt('Ingrese el valor de Altura'))
     var resultado = (a * b)
     alert (resultado)
 }
@@ -23,7 +23,7 @@ area()
 
 function area (a,b) {
     b = Number (prompt('Area de un Trinagulo \n ingrese el valor de Base'))
-    a = Number (prompt('ingrese el valor de Altura'))
+    a = Number (prompt('Ingrese el valor de Altura'))
     var resultado = ((a * b) / 2)
     
     alert (resultado)
