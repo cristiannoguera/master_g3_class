@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+}
+
+.madre {
+    display: flex;
+    justify-content: space-around;
+}
+.mycard {
+    display: flex;
+    justify-content: space-between;
+}
