@@ -1,0 +1,33 @@
+body {
+    background-color: #1d1d1d;
+}
+.dictador{
+    border: black 2px solid;
+    background-color: none;
+}
+
+.my-img{
+    height: 800px;
+}
+.portada {
+    width: 50%;
+
+}
+.item1 {
+    background-color: none;
+    height: 300px;   
+}
+
+.item2 {
+    background-color: none;
+    height: 300px;   
+}
+
+.item3 {
+    background-color: none;
+    height: 300px;  
+}
+.item4 {
+    background-color: none;
+    height: 300px;   
+}
