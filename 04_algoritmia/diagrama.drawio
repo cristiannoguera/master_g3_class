@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e" modified="2020-11-10T02:52:55.246Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.0 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" version="13.6.5" etag="Y-JPG8XJ9-_gI23RJ8CQ">
+    <diagram id="-AEB96fFKkhcZvrabCAO" name="Page-1">
+        <mxGraphModel dx="815" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Play" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="354" width="116" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Bucle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="364" y="70" width="96" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Elija una opción:&lt;br&gt;1 - Piedra&lt;br&gt;2 - Papel&lt;br&gt;3 - Tijera&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="299" y="150" width="230" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="https://algoritmosurgentes.com/algoritmo-en-diagrama-de-flujo-raptor/piedra-papel-o-tijera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="280" width="550" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
