@@ -26,7 +26,7 @@ class Animal {
     console.log(miMascota.comer())
 
 
-//Challege
+//Challenge
 
     // Crear una clase llamada automovil, y van a tener 3 propiedades. color, marca, deportivo=bolean
         // 2 metodos (Lo que quieran)
