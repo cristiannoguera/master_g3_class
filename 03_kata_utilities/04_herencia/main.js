@@ -25,7 +25,6 @@ class Gato extends Mascota {
         return 'miauuuuu'
     }
 }
-
 class Hamters extends Mascota {
     constructor (nombre, patas, tipo){
         super(nombre, patas)
