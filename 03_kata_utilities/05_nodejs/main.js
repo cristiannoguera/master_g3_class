@@ -1,22 +1,22 @@
-// const name = "Cristian"
+const name = "Cristian"
 
-// console.log('Hola ${name}'),
+console.log('Hola ${name}'),
 
-// const a = 10;
-// const b = 20;
+const a = 10;
+const b = 20;
 
-// console.log('resultado: ' a + b);
+console.log('resultado: ' a + b);
 
-// function saludar (name) {
-//     console.log(name);
-//     let mensaje = `Hola ${name}`;
-//     return mensaje;
-// }
-// console.log('No he ejecutado la funcion')
-// let saludo = saludar ('Cristian'):
-// console.log('ya termino de ejecutarse la funcion')
+function saludar (name) {
+    console.log(name);
+    let mensaje = `Hola ${name}`;
+    return mensaje;
+}
+console.log('No he ejecutado la funcion')
+let saludo = saludar ('Cristian'):
+console.log('ya termino de ejecutarse la funcion')
 
-// console.log(saludo)
+console.log(saludo)
 
 console.log('Inicio del programa');
 
