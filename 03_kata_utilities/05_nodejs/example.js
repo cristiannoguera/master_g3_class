@@ -1,52 +1,52 @@
-// var i = 7
+var i = 7
 
-// for (let i = 1; i<=5; i++) {
-//     console.log (i)
-// }
-// for (var i = 1; i<=5; i++) {
-//     console.log (i)
-// }
+for (let i = 1; i<=5; i++) {
+    console.log (i)
+}
+for (var i = 1; i<=5; i++) {
+    console.log (i)
+}
 
-// console.log (i)
+console.log (i)
 
-// var i = 2
+var i = 2
 
-// console.log(i)
+console.log(i)
 
-// let definido por el scope
-// for (let i = 1; i<=5; i++) {
-//     console.log (i)
-// }
-// for (let i = 1; i<=5; i++) {
-//     console.log (i)
-// }
+let definido por el scope
+for (let i = 1; i<=5; i++) {
+    console.log (i)
+}
+for (let i = 1; i<=5; i++) {
+    console.log (i)
+}
 
-// const name = ["Cristian"];
-// name = "jajaja";
+const name = ["Cristian"];
+name = "jajaja";
 
-// const name = ["Cristian"];
-// console.log(name)
-// name.pop();
-// console.log(name)
-
-
-
-// const persona = {
-//     nombre: 'Cristian'
-// }
-
-// console.log(persona)
-// persona.edad = 29
-// console.log(persona)
-
-// //delete persona(nombre)
-// delete persona.nombre;
-// delete persona.edad;
-
-// console.log(persona)
+const name = ["Cristian"];
+console.log(name)
+name.pop();
+console.log(name)
 
 
-// Template String
+
+const persona = {
+    nombre: 'Cristian'
+}
+
+console.log(persona)
+persona.edad = 29
+console.log(persona)
+
+//delete persona(nombre)
+delete persona.nombre;
+delete persona.edad;
+
+console.log(persona)
+
+
+Template String
 
 
 const name = 'Cristian'
