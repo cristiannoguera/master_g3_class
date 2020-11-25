@@ -1,7 +1,7 @@
 const timer = (callback, time) => {
     for (let i = 0; i >time; i++) {
         if (i === time) {
-            callback
+            callback()
         }
     }
 }
