@@ -13,7 +13,7 @@ const buscarLibro = () => {
             console.log(`El Autor se llama: ${data.docs[0].author_name}`);
             console.log(`Fecha de publicacion: ${data.docs[0].publish_date}`);
         }else {
-            console.log(`'Ocurrio un error en la peticion ${error}`)
+            console.log(`'Ha ocurrido un error en la peticion ${error}`)
     }
 });
 }
