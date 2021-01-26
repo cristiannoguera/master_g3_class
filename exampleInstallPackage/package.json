@@ -1,0 +1,25 @@
+{
+  "name": "exampleinstallpackage",
+  "version": "0.0.1",
+  "description": "Nuevo proyecto para instalar paquetes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "node",
+    "js",
+    "devf"
+  ],
+  "author": "Cristian Noguera",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
