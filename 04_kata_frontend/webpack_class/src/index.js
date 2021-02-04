@@ -2,7 +2,9 @@
 //const saludo = require('./saludo');
 
 //ECMA
-import saludo form './saludo'
-console.log('Este es un CLG')
+import saludo from './saludo';
 
-saludo('Buenas....')
+console.log('Este es un CLG');
+
+const respuesta = saludo('Buenas....');
+console.log(respuesta);
